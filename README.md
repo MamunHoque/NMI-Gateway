@@ -1,2 +1,2 @@
 # NMI-Gateway
-Network Merchants Gateway API
+Network Merchants NMI Gateway API Integration – PHP Class
